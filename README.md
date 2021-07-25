@@ -1,4 +1,7 @@
 ![Poster-01](https://user-images.githubusercontent.com/76547134/126904693-6413b4bf-09de-42d4-86c5-3678f9afad8b.jpg)
+<br/>
+<img align = "right" width="150" src= "https://img.shields.io/badge/supports-Andriod-green">
+<img align = "right" width="110" src= "https://img.shields.io/badge/supports-iOS-blue">
 
 # ShopChain
 *Welcome to India’s first ever Block-Chainbased E-CommerceApp*
