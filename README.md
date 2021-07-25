@@ -10,7 +10,7 @@
 
 # Polygon
 <img align="right" src="https://user-images.githubusercontent.com/76547134/126905189-7ccb48ff-51ba-4e1b-a274-748c21548643.gif"><br/>
- This app is made with help of Polygon. <br/> It helps the app for a gas free and fast transactions.<br/>It also helps for easy Ethereum trancsaction <br/>with help of solidity.<br/>The best part of polygon is you can use it <br/>without changing anything in your solidity code . 
+ This app is made with help of Polygon. It helps the app for a gas free and fast transactions.It also helps for easy Ethereum trancsaction with help of solidity.The best part of polygon is you can use it without changing anything in your solidity code . 
 
 # Complete overview of the app
 
@@ -22,6 +22,6 @@ The app is made with flutter and dart programing language.The entire layout of t
 + Cart , for better experience and maganing products during purchase in our app
 + A portal for the seller to sell their products
 + Reviews based on the buyers response
-
+<br/>
 Made with ♥️ by CreativeHeads
 
