@@ -23,7 +23,7 @@ The app is made with flutter and dart programing language.The entire layout of t
 + A portal for the seller to sell their products
 + Reviews based on the buyers response
 
-#End goals
+# End goals
 
 With this blockchain based e-comerce app we are looking to integrate every working feature of this app on an existing blockchain (in the future updates), with the help of smart contracts. This not only reduces the overall operating cost but is also environmental friendly as it does not require large data centers to operate and thus has very less carbon footprint. Given that crypto transactions are very safe and come at a lower cost we are looking to reduce the overall price of product by a margin of 10% as compared to conventional shopping apps , all thanks to cheaper transaction rates of blockchain like ethereum.
 <br/>
