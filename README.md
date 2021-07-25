@@ -10,7 +10,7 @@
 
 # Polygon
 <img align="right" src="https://user-images.githubusercontent.com/76547134/126905189-7ccb48ff-51ba-4e1b-a274-748c21548643.gif"><br/>
-### This app is made with help of Polygon. <br/> It helps the app for a gas free and fast transactions.<br/>It also helps for easy Ethereum trancsaction <br/>with help of solidity.<br/>The best part of polygon is you can use it <br/>without changing anything in your solidity code . 
+ This app is made with help of Polygon. <br/> It helps the app for a gas free and fast transactions.<br/>It also helps for easy Ethereum trancsaction <br/>with help of solidity.<br/>The best part of polygon is you can use it <br/>without changing anything in your solidity code . 
 
 # Complete overview of the app
 
