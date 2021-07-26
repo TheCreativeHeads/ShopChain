@@ -17,7 +17,7 @@
 
 # Complete overview of the app
 
-The app is made with ```Flutter``` and ```Dart``` programing language.The entire layout of the design was made in ```Figma```.Using the layout in Figma ,the UI/UX was created.Flutter is the face of the app , which is the frontend of the app.The Payment section is done with ```Solidity``` and was tested in a local blockchain with the help of ```Ganache```.Then it was deloyed in ```Goërli``` Mumbia testnet with help of ```Metamask```. This is how we have a successful wallet for transaction in our app.
+The app is made with ```Flutter``` and ```Dart``` programing language.The entire layout  design was made in ```Figma```.Using the layout in Figma ,the UI/UX was created.Flutter is the face of the app , which is the frontend of the app.The Payment section is done with ```Solidity``` and was tested in a local blockchain with the help of ```Ganache```.Then it was deloyed in ```Goërli``` Mumbia testnet with help of ```Metamask```. This is how we have a successful wallet for transaction in our app.
 
 # What features to be added
 
