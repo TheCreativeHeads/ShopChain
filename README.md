@@ -25,6 +25,7 @@ The app is made with ```Flutter``` and ```Dart``` programing language.The entire
 + Cart , for better experience and maganing products during purchase in our app
 + A portal for the seller to sell their products
 + Reviews based on the buyers response
++ Add transaction hash so that the buyer can have track of his/her purchase
 
 # End goals
 
